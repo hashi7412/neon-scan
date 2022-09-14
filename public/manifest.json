@@ -1,0 +1,14 @@
+{
+  "short_name": "neonscan",
+  "name": "Neon Explorer",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "type": "image/ico"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

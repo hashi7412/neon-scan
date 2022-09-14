@@ -1,0 +1,23 @@
+.verify-sig {
+    .msg-info {
+        background-color: var(--border);
+        padding: 10px;
+        border-radius: 5px;
+    }
+
+    .panel {
+        position: relative;
+        &:before {
+            position: absolute;
+            top: 150px;
+            right: 50px;
+            transform: rotate(45deg);
+            color: #00c9a7;
+            font-size: 3.25em;
+            padding: 0 5px;
+            border: solid 4px #00c9a7;
+            opacity: .3;
+            content: "Verified";
+        }
+    }
+}

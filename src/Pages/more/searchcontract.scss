@@ -1,0 +1,62 @@
+.row-reverse {
+    flex-wrap: wrap;
+    flex-direction: row-reverse;
+}
+
+.search-contract-list {
+    .table {
+        th {
+            display: none;
+        }
+        .tbl-body {
+            td {
+                border: none;
+                padding: 5px;
+                .card {
+                    margin-bottom: 10px;
+                    padding: 15px;
+                    border-radius: 5px;
+                    border: 1px solid var(--border);
+                    box-shadow: 0 0.5rem 1.2rem rgba(189, 197, 209, .2);
+                    >div:first-child {
+                        padding: 10px 0;
+                    }
+                    >p {
+                        padding: 10px;
+                        background-color: var(--border);
+                        border-radius: 5px;
+                    }
+                    >div:last-child {
+                        flex-wrap: wrap;
+                        padding: 10px 0;
+                        >* {
+                            padding: 0px 10px;
+                            @media (max-width: 767px) {
+                                display: block;
+                                padding: 5px 0;
+                                width: 100%;
+                            }
+                        }
+                        >:not(:last-child) {
+                            border-right: 3px solid var(--border);
+                            @media (max-width: 767px) {
+                                border: none;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+    .input-scape {
+        width: 100%;
+        div {
+            display: flex;
+            gap: 10px;
+            input {
+                min-width: 0;
+                flex: 1;
+            }
+        }
+    }
+}

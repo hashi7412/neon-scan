@@ -1,0 +1,38 @@
+.topstat {
+    .card {
+        border: 1px solid var(--border);
+        border-radius: 5px;
+        .card-header {
+            background-color: var(--bg-card);
+            border-bottom: 1px solid var(--border);
+            >* {
+                padding: 15px;
+                .chart-tooltip & {
+                    padding: 5px;
+                }
+            }
+            h4 {
+                font-size: 14px;
+                font-weight: 600;
+            }
+        }
+        .card-content {
+            padding: 0 15px;
+            .chart-tooltip & {
+                padding: 0 5px;
+            }
+            >* {
+                padding: 15px 0;
+                .chart-tooltip & {
+                    padding: 5px 0;
+                }
+                >div:not(:last-of-type) {
+                    margin-bottom: 5px;
+                }
+            }
+            >*:not(:last-of-type) {
+                border-bottom: 1px solid var(--border);
+            }
+        }
+    }
+}

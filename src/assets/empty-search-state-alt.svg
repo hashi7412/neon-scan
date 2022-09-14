@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="338.644" height="287.671" viewBox="0 0 338.644 287.671">
+  <defs>
+    <filter id="file" x="153.382" y="69.65" width="179.678" height="210.263" filterUnits="userSpaceOnUse">
+      <feOffset dy="2.008" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3.013" result="blur"/>
+      <feFlood flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="file-2" x="24.855" y="51.573" width="188.288" height="221.302" filterUnits="userSpaceOnUse">
+      <feOffset dy="2.008" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3.013" result="blur-2"/>
+      <feFlood flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="file-2-2" x="92.238" y="0" width="157" height="208" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="searfch-circle" x="174.581" y="117" width="128" height="129" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="search-pen" x="261.775" y="205.565" width="76.868" height="76.868" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-5"/>
+      <feFlood flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="empty-search-state-alt" transform="translate(-429.756 -341.003)">
+    <g id="files" transform="translate(463.649 348.133)">
+      <g id="file-3">
+        <g transform="matrix(1, 0, 0, 1, -33.89, -7.13)" filter="url(#file)">
+          <g id="file-3-2" data-name="file" transform="translate(205.41 76.68) rotate(15)" fill="#fff" stroke="#e7eaf3" stroke-width="2.008">
+            <rect width="122.797" height="166.056" rx="11.047" stroke="none"/>
+            <rect x="1.004" y="1.004" width="120.788" height="164.048" rx="10.042" fill="none"/>
+          </g>
+        </g>
+        <circle id="Ellipse_2" data-name="Ellipse 2" cx="11" cy="11" r="11" transform="translate(197.351 96.867)" fill="#e7eaf3"/>
+        <rect id="Rectangle_12" data-name="Rectangle 12" width="34.741" height="6.042" transform="translate(225.694 107.366) rotate(15.009)" fill="#e7eaf3"/>
+        <rect id="Rectangle_13" data-name="Rectangle 13" width="49.091" height="3.776" transform="translate(223.107 116.846) rotate(15.009)" fill="#e7eaf3"/>
+      </g>
+      <g id="file-2-3" data-name="file-2" transform="translate(0 51.627)">
+        <g transform="matrix(1, 0, 0, 1, -33.89, -58.76)" filter="url(#file-2)">
+          <g id="file-2-4" data-name="file-2" transform="translate(33.89 92.03) rotate(-15)" fill="#fff" stroke="#e7eaf3" stroke-width="2.008">
+            <rect width="129.099" height="175.795" rx="11.047" stroke="none"/>
+            <rect x="1.004" y="1.004" width="127.091" height="173.787" rx="10.042" fill="none"/>
+          </g>
+        </g>
+        <g id="content" transform="translate(23.284 51.485) rotate(-15.009)">
+          <rect id="Rectangle_2" data-name="Rectangle 2" width="34.741" height="6.042" transform="translate(27.651 1.642)" fill="#e7eaf3"/>
+          <rect id="Rectangle_8" data-name="Rectangle 8" width="49.091" height="3.776" transform="translate(27.299 11.712)" fill="#e7eaf3"/>
+          <rect id="Rectangle_3" data-name="Rectangle 3" width="88.364" height="3.776" transform="translate(0.827 32.234)" fill="#e7eaf3"/>
+          <rect id="Rectangle_11" data-name="Rectangle 11" width="88.364" height="3.776" transform="translate(1.573 70.612)" fill="#e7eaf3"/>
+          <rect id="Rectangle_4" data-name="Rectangle 4" width="88.364" height="3.776" transform="translate(0.827 42.053)" fill="#e7eaf3"/>
+          <rect id="Rectangle_10" data-name="Rectangle 10" width="88.364" height="3.776" transform="translate(1.573 80.43)" fill="#e7eaf3"/>
+          <rect id="Rectangle_5" data-name="Rectangle 5" width="67.217" height="3.776" transform="translate(0.827 51.871)" fill="#e7eaf3"/>
+          <rect id="Rectangle_9" data-name="Rectangle 9" width="67.217" height="3.776" transform="translate(1.573 90.248)" fill="#e7eaf3"/>
+          <rect id="Rectangle_6" data-name="Rectangle 6" width="40.028" height="12.084" transform="translate(0.527 120.936)" fill="#e7eaf3"/>
+          <rect id="Rectangle_7" data-name="Rectangle 7" width="19.636" height="19.636" fill="#e7eaf3"/>
+        </g>
+      </g>
+      <g id="file-1" transform="translate(67.535)">
+        <g transform="matrix(1, 0, 0, 1, -101.43, -7.13)" filter="url(#file-2-2)">
+          <g id="file-4" data-name="file" transform="translate(101.24 7)" fill="#fff" stroke="#e7eaf3" stroke-width="2">
+            <rect width="139" height="190" rx="11" stroke="none"/>
+            <rect x="1" y="1" width="137" height="188" rx="10" fill="none"/>
+          </g>
+        </g>
+        <g id="content-2" data-name="content" transform="translate(21.306 23.765)">
+          <rect id="Rectangle_1" data-name="Rectangle 1" width="78" height="10" transform="translate(3.51 42.102)" fill="#e7eaf3"/>
+          <rect id="Rectangle_2-2" data-name="Rectangle 2" width="96" height="4" transform="translate(3.51 57.102)" fill="#e7eaf3"/>
+          <rect id="Rectangle_3-2" data-name="Rectangle 3" width="96" height="4" transform="translate(3.51 76.102)" fill="#e7eaf3"/>
+          <rect id="Rectangle_4-2" data-name="Rectangle 4" width="96" height="4" transform="translate(3.51 87.102)" fill="#e7eaf3"/>
+          <rect id="Rectangle_5-2" data-name="Rectangle 5" width="73" height="4" transform="translate(3.51 98.102)" fill="#e7eaf3"/>
+          <rect id="Rectangle_6-2" data-name="Rectangle 6" width="43" height="13" transform="translate(3.51 129.102)" fill="#e7eaf3"/>
+          <text id="_" data-name="?" transform="translate(3.999 25.102)" fill="#d4d9e8" font-size="35" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">?</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="lines" transform="translate(433.338 355.22)">
+      <line id="Line_2" data-name="Line 2" x1="14.839" y2="16.323" transform="translate(289.949 15.614)" fill="none" stroke="#d4d9e8" stroke-linecap="round" stroke-width="4"/>
+      <line id="Line_3" data-name="Line 3" x2="14.839" y2="16.323" transform="translate(36.202)" fill="none" stroke="#d4d9e8" stroke-linecap="round" stroke-width="4"/>
+      <line id="Line_4" data-name="Line 4" y1="16.323" x2="7.42" transform="translate(7.663 172.704) rotate(28)" fill="none" stroke="#d4d9e8" stroke-linecap="round" stroke-width="4"/>
+      <line id="Line_5" data-name="Line 5" y1="16.323" x2="7.42" transform="translate(169.847 254.302) rotate(-9)" fill="none" stroke="#d4d9e8" stroke-linecap="round" stroke-width="4"/>
+    </g>
+    <g id="search" transform="translate(613.131 465.318)">
+      <g transform="matrix(1, 0, 0, 1, -183.37, -124.31)" filter="url(#searfch-circle)">
+        <g id="searfch-circle-2" data-name="searfch-circle" transform="translate(183.58 124)" fill="#fff" stroke="#d4d9e8" stroke-width="12">
+          <ellipse cx="55" cy="55.5" rx="55" ry="55.5" stroke="none"/>
+          <ellipse cx="55" cy="55.5" rx="49" ry="49.5" fill="none"/>
+        </g>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, -183.37, -124.31)" filter="url(#search-pen)">
+        <path id="search-pen-2" data-name="search-pen" d="M0,0,48.969,48.969" transform="translate(275.72 217.51)" fill="none" stroke="#d4d9e8" stroke-linecap="round" stroke-width="7"/>
+      </g>
+      <path id="check-regular" d="M67.207,80.294,41.561,105.941l-9.423-9.423a1.17,1.17,0,0,0-1.655,0l-2.758,2.758a1.17,1.17,0,0,0,0,1.655l13.008,13.008a1.17,1.17,0,0,0,1.655,0L71.62,84.706a1.17,1.17,0,0,0,0-1.655l-2.758-2.758A1.17,1.17,0,0,0,67.207,80.294Z" transform="translate(5.823 -42.266)" fill="#e7eaf3"/>
+    </g>
+  </g>
+</svg>

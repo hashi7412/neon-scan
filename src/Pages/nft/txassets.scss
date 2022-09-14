@@ -1,0 +1,55 @@
+.nft-txassets {
+    .top {
+        width: 400px;
+
+        .img-wrap {
+            min-width: 80px;
+            height: 80px;
+            padding: 5px;
+            background-color: var(--border);
+
+            img {
+                width: 100%;
+                height: 100%;
+            }
+        }
+
+        .money {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            background-color: var(--color-active);
+            color: var(--bg-body);
+            min-width: 70px;
+            height: 70px;
+
+            h4 {
+                font-weight: 600;
+            }
+        }
+
+        .fill {
+            min-width: 200px;
+
+            * {
+                white-space: pre-wrap;
+            }
+            h4 {
+                font-weight: 600;
+                color: var(--color-active);
+            }
+        }
+
+        z-index: 5;
+    }
+
+    .table {
+        overflow: initial !important;
+
+        .tbl-body {
+            max-height: none;
+            overflow: initial !important;
+        }
+    }
+}

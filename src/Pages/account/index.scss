@@ -1,0 +1,32 @@
+.list{
+    p{
+        line-height: 30px;
+    }
+    >div {
+        padding: 15px 0;
+        display: flex;
+        flex-wrap: wrap;
+        >span {
+            width: 33.3%;
+            @media (max-width: 767px) {
+                width: 100%;
+            }
+        }
+        >span:first-child {
+            display: flex;
+            align-items: center;
+            svg {
+                margin-right: 5px;
+            }
+        }
+        >span:last-child {
+            flex: 1;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        &:not(:last-of-type) {
+            border-bottom: 1px solid var(--border);
+        }
+    }
+}

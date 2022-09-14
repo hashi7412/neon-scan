@@ -1,0 +1,29 @@
+.gas-tracker {
+    .card {
+        padding: 20px 0px;
+        border: 1px solid var(--border);
+        border-radius: 10px;
+    }
+
+    .col4 {
+        @media (max-width: 1024px) {
+            flex: 0 0 33.3% !important;
+            width: 33.3%;
+        }
+        @media (max-width: 767px) {
+            flex: 0 0 100% !important;
+            width: 100%;
+        }
+    }
+
+    .progressbar {
+        height: 2px;
+        background-color: var(--border);
+        border-radius: 5px;
+        width: 100%;
+        .bar {
+            height: 100%;
+            background-color: var(--color-link);
+        }
+    }
+}

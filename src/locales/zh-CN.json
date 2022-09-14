@@ -1,0 +1,78 @@
+{
+    "lang" : "En",
+    "title": "DeamScan",
+    "description": "DeamScan allows you to explore and search the Deam blockchain for transactions, addresses, tokens, prices and other activities taking place on Deam (DEAM)",
+
+    "memu.title": "女神链",
+    "memu.home": "主页",
+    "memu.blockchain": "区块链",
+    "memu.blockchain.top": "富翁",
+    "memu.blockchain.txn": "View Txns",
+    "memu.blockchain.pending": "View Pending Txns",
+    "memu.blockchain.internal": "View Contact Internal Txns",
+    "memu.blockchain.blocks": "View Blocks",
+    "memu.blockchain.contracts": "Verified Contracts",
+    
+    "memu.staking": "Staking",
+    "memu.staking.validators": "Validators Leaderboard",
+    "memu.staking.epochs": "Epochs",
+    
+    "memu.tokens": "Tokens",
+    "memu.tokens.erc20": "ERC-20 Top Tokens",
+    "memu.tokens.erc20transfer": "View ERC-20 Transfer",
+    "memu.tokens.erc721": "ERC-721 Top Tokens",
+    "memu.tokens.erc721transfer": "View ERC-721 Transfer",
+    
+    "memu.resources": "Resources",
+    "memu.resources.charts": "Charts & Stats",
+    "memu.resources.topstat": "Top Statistics",
+
+    "memu.more": "More",
+    "memu.more.api": "API Documentation",
+    "memu.more.verify": "Verify Contract",
+    "memu.more.opcode": "Byte to Opcode",
+    "memu.more.broadcast": "Broadcast TXN",
+    "memu.more.vyper": "Vyper Online Compiler",
+    "memu.more.label_word_cloud": "Label Word Cloud",
+    "memu.more.token_approvals": "Token Approvals",
+    "memu.more.gas_tracker": "Gas Tracker",
+    
+    "memu.network.main": "Mainnet",
+    "memu.network.test": "Testnet",
+    
+    "memu.login": "Sign In",
+    "memu.logout": "Sign Out",
+
+    "memu.my": "My Profile",
+    "memu.my.watch_list": "Watch List",
+    "memu.my.txn_private_notes": "Txn Private Notes",
+    "memu.my.token_ignore_list": "Token Ignore List",
+    "memu.my.api_keys": "API Keys",
+    "memu.my.verified_address": "Verified Address",
+    "memu.my.custom_abi": "Custom ABI",
+
+    "home.title": "{chain} blockchain explorer",
+    "home.price": "{symbol} PRICE",
+    "home.transactions": "TRANSACTIONS",
+    "home.marketcap": "MARKETCAP",
+    "home.blocknumber": "LATEST BLOCK",
+
+    "error.10000": "not found",
+	"error.10001": "block number must be greater than 0.",
+	"error.10002": "requested block number seems not mined yet.",
+	"error.10003": "invalid paramter(s)",
+	"error.10010": "invalid format",
+	"error.10011": "not found in blockchain",
+	"error.10020": "is not contract address",
+	"error.10021": "is not ERC20 address",
+	"error.10022": "is not ERC721 address",
+	"error.10023": "is not ERC1155 address",
+	
+	"error.32700": "Invalid JSON was received by the server. An error occurred on the server while parsing the JSON text.",
+	"error.32600":	"The JSON sent is not a valid Request object.",
+	"error.32601":	"The method does not exist / is not available.",
+	"error.32602":	"Invalid method parameter(s).",
+	"error.32603":	"Internal JSON-RPC error.",
+	"error.32604":	"Internal Authentication Method.",
+	"error.32000":	"Reserved for implementation-defined server-errors."
+}

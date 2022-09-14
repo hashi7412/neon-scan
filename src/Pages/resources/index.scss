@@ -1,0 +1,71 @@
+.charts {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: flex-start;
+	align-items: center;
+
+	>a {
+		display: inline-block;
+		width: 25%;
+		padding: 10px;
+		margin-bottom: 10px;
+
+		.chart-panel {
+			border-radius: 5px;
+			overflow: hidden;
+			border: 1px solid var(--border);
+			b {
+				display: block;
+				font-weight: 600;
+				padding: 10px;
+				border-bottom: 1px solid var(--border);
+			}
+			>div {
+				padding: 10px;
+				padding-top: 10%;
+			}
+			&:hover {
+				box-shadow: 0 0 1em var(--border);
+			}
+		}
+		@media (max-width: 1024px) {
+			width: 33.3%;
+		}
+		@media (max-width: 767px) {
+			width: 50%;
+		}
+		@media (max-width: 550px) {
+			width: 100%;
+		}
+	}
+}
+
+.info-panel {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	align-items: center;
+	padding: 10px;
+	>* {
+		flex: 1;
+		padding: 10px !important;
+		text-align: center;
+		@media (max-width: 767px) {
+			flex: auto;
+		}
+	}
+
+	>:not(:last-of-type) {
+		border-right: 1px solid var(--border);
+		@media (max-width: 767px) {
+			border-right: 0;
+			border-bottom: 1px solid var(--border);
+		}
+	}
+}
+
+.chart-tootip {
+	padding: 15px;
+	background-color: var(--bg-body);
+	border: 1px solid var(--border);
+}

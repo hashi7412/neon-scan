@@ -1,0 +1,28 @@
+.nft-profile {
+    .card {
+        padding: 0.5em 0.5em;
+        height: 100%;
+        .card-content {
+            background: var(--bg-body);
+            height: 100%;
+            padding: 1em 0.5em;
+            border: 1px solid var(--border);
+            border-radius: 0.5em;
+            span {
+                color: var(--color-active);
+            }
+            h4 {
+                color: var(--color-active);
+                font-weight: 600;
+                padding: 0;
+                margin: 0;
+            }
+        }
+    }
+}
+
+.dark-theme {
+    .card .card-content {
+        background: var(--bg-body);
+    }
+}

@@ -1,0 +1,30 @@
+.nft-assets {
+    .panel {
+        .panel-content {
+            padding: 2em 2em;
+        }
+    }
+
+    .card {
+        display: flex;
+        flex-direction: column;
+        width: 200px;
+        height: 250px;
+        border: 1px solid var(--border);
+        padding: 1em 1em;
+        border-radius: 0.5em;
+        text-align: center;
+
+        img {
+            flex: 1;
+            margin-bottom: 0.5em;
+        }
+    }
+
+    .table {
+        .tbl-body {
+            overflow: initial !important;
+            max-height: none;
+        }
+    }
+}

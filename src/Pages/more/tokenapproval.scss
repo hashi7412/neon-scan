@@ -1,0 +1,27 @@
+.checkbox {
+    position: relative;
+    margin-left: 5px;
+    width: 3em;
+    height: 1.5em;
+    background-color: var(--border);
+    border-radius: 50px;
+    cursor: pointer;
+    span {
+        position: absolute;
+        top: .1em;
+        left: .2em;
+        display: inline-block;
+        width: 1.3em;
+        height: 1.3em;
+        background-color: var(--border-secondary);
+        border-radius: 50%;
+    }
+    &.checked {
+        background-color: var(--color-link);
+        span {
+            left: auto;
+            right: .2em;
+            background-color: var(--bg-body);
+        }
+    }
+}

@@ -1,0 +1,12 @@
+// by: Leo Pawel 	<https://github.com/galaxy126>
+// 07/09/2022
+
+.opcode {
+    tr {
+        height: 2.5em;
+        &:hover {
+            color: var(--color-light);
+            background-color: var(--bg-link);
+        }
+    }
+}

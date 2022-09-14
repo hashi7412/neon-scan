@@ -1,0 +1,38 @@
+{
+	"AXIS": {
+		"bridge": "0x08432f408B93f2735Cb1772d33b7983D63B63db6",
+		"chainId": 36,
+		"confirmations": 1,
+		"blocktime": 1000,
+		"rpc": "https://rpc.axischain.network",
+		"explorer": "https://testnet-explorer.axischain.network",
+		"erc20": "AXIS-ERC20",
+		"tokens": {
+			"AXIS": {
+				"decimals": 18
+			},
+			"ETH": {
+				"decimals": 18,
+				"contract": ""
+			}
+		}
+	},
+	"ETH": {
+		"bridge": "0x1AbbA4d5565305Af584D3a069e78690BC816B4fB",
+		"chainId": 1,
+		"confirmations": 12,
+		"blocktime": 15000,
+		"rpc": "https://rinkeby.infura.io/v3/580d6de4d2694cbdbee111d2f553dbcc",
+		"explorer": "https://rinkeby.etherscan.io/",
+		"erc20": "ERC20",
+		"tokens": {
+			"ETH": {
+				"decimals": 18
+			},
+			"AXIS": {
+				"decimals": 18,
+				"contract": ""
+			}
+		}
+	}
+}
