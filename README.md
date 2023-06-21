@@ -9,7 +9,7 @@ As a means to provide equitable access to blockchain data, we've developed the N
 - react `v17.0.2`
 
 ## API
-wss://scan.neonlink.io/api
+[wss://scan.neonlink.io/api](wss://scan.neonlink.io/api)
 
 ## Configuration
 
