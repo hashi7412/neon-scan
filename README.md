@@ -2,8 +2,7 @@
 
 ### [NeonScan](https://scan.noenlink.io) frontend source [code](https://github.com/hashi7412/neon-scan)
 
-As a means to provide equitable access to blockchain data, we've developed the NeonScan Developer APIs to empower developers with direct access to NeonScan's block explorer data and services via GET/POST requests.
-
+As a means to provide equitable access to blockchain data, we've developed the NeonScan Developer APIs to empower developers with direct access to NeonScan's block explorer data and services via GET/POST requests using React library.
 ## Install & Dependence
 - node `v18.13.0`
 - react `v17.0.2`
